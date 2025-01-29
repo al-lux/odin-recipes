@@ -1,2 +1,2 @@
 # odin-recipes
-Basics web project from theodinproject.com
+Basic web project from theodinproject.com
